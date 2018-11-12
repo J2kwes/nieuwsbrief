@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+table {
+    padding: 10px;
+    background-color: ghostwhite;
+}
+
+td {
+   padding: 10px;
+}
+
+td:hover {
+    background-color: gainsboro;
+}
+
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
